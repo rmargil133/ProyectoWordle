@@ -1,4 +1,4 @@
-# ProyectoWordle
+# ProyectoWordle Rubén Mariscal Gil
 
 ## 📝 Descripción
 
